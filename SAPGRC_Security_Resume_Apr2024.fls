@@ -1,8 +1,8 @@
-PWD /Users/pickpocket/Documents/RESUME/Latex Resume
+PWD /Users/pickpocket/Documents/RESUME/Latex Resume/resume_latex
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pickpocket/Documents/RESUME/Latex Resume/SAPGRC_Security_Resume_Apr2024.tex
+INPUT /Users/pickpocket/Documents/RESUME/Latex Resume/resume_latex/SAPGRC_Security_Resume_Apr2024.tex
 OUTPUT SAPGRC_Security_Resume_Apr2024.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
